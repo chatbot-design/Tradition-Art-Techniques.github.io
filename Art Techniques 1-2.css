@@ -1,0 +1,37 @@
+nav {
+    background-color: rgb(145, 213, 228);
+    color: rgb(12, 28, 71);
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: rgb(33, 33, 109);
+    font-family:'Roboto Mono';
+    font: size 15x;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color:#29677bbd;
+    color: rgb(26, 46, 100);
+}
+ 
+nav {
+    background-color: #fff; 
+    padding: 10px; 
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: #333; /* Color of navigation links */
+}
+
+.logo img {
+    margin-right: 20px; /* Add space between logo and navigation links */
+}

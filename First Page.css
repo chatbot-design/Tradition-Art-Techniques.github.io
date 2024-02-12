@@ -1,0 +1,32 @@
+nav {
+    background-color: rgb(145, 213, 228);
+    color: rgb(12, 28, 71);
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: rgb(33, 33, 109);
+    font-family:'Roboto Mono';
+    font: size 15x;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color:#29677bbd;
+    color: rgb(26, 46, 100);
+
+img {
+    border: 5px solid #1d6b15c1;
+    width: 100%;
+    height: auto;
+}
+
+p {
+    margin-top: 20px;
+}
+
+
+font-family:'Roboto Mono';font-size: 22px; 
